@@ -6,5 +6,5 @@ app.get('/', (req, res)=>{
 })
 
 app.listen(
-    4000, ()=>{'Web Server running on port 4000'}
+    1337, ()=>console.log('Web Server running on port 1337')
 )
