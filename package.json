@@ -1,0 +1,22 @@
+{
+  "name": "node.js-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic-route.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tinashe-Muchie/Node.js-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tinashe-Muchie/Node.js-intro/issues"
+  },
+  "homepage": "https://github.com/Tinashe-Muchie/Node.js-intro#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
